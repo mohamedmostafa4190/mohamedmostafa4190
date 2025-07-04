@@ -1,19 +1,15 @@
+<h2 align="left">Hi 👋! My name is Mohamed Mostafa</h2>
+
+###
+
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is  Mohamed Mostafa</h2>
-
-###
-
-<h1 align="left">Flutter Developer</h1>
-
-###
-
-<img align="right" height="170" src="https://i.pinimg.com/originals/4b/cb/1f/4bcb1fb72d1d08efa44efa5ceb712ec7.gif"  />
+<h2 align="left">Flutter developer</h2>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmostafa4190&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmostafa4190&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -33,21 +29,9 @@
 ###
 
 <div align="left">
-  <a href="https://mail.google.com/mohamedm1238881" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamedmostafa-android/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/201023428905" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/mohamedmostafa-android" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=mohamedmostafa4190.mohamedmostafa4190&"  />
 
 ###
